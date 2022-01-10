@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = blufairie888@gmail.com
+	name = Duangrudee Methakullachat
